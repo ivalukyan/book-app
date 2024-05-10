@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">book-app</string>
     <string name="title_name">Mood Library</string>
+    <string name="login_text">Log In an account</string>
 </resources>
